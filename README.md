@@ -28,3 +28,6 @@ resert(reserve commit)
 Resolved Conflicts - Marked Resolved 를 체크하여, Git에게 충돌 해결을 알림
 
 2. Conflict를 예방할 수 있는 방법 == 실험 브랜치가 끊임없이 master브랜치를 동기화!
+
+3. origin/master인 부분 VS master인 부분
+	: 실제로 서버에 반영			: 서버에 반영되지 않고 로컬에서 추가한 부분
