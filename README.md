@@ -56,4 +56,6 @@ push: 로컬 저장소의 커밋들을 원격 저장소에 업로드
 
 4) diff로 conflict 해결하기
 Resolved conflict-launch external merge tools
-
+Base: 공통된 부모
+local: 현재의 브랜치
+Remoe: 다른 브랜치
