@@ -41,3 +41,7 @@ push의 갯수 : 원격 저장소와 local의 버전을 일치시킨후, 원격 
 
 "pull --> work --> commit --> pull --> push"
 
+3) conflict 발생시(같은 내용을 두 사람이 2번째의 pull없이 push하는 경우)
+--> 나중에 push하는 사람이 코드를 해결해야 함 
+--> 코드 해결 후, Resolved conflict - Marked resolved를 체크 
+--> push하기
