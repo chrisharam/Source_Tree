@@ -45,3 +45,4 @@ push의 갯수 : 원격 저장소와 local의 버전을 일치시킨후, 원격 
 --> 나중에 push하는 사람이 코드를 해결해야 함 
 --> 코드 해결 후, Resolved conflict - Marked resolved를 체크 
 --> push하기
+
