@@ -59,3 +59,5 @@ Resolved conflict-launch external merge tools
 Base: 공통된 부모
 local: 현재의 브랜치
 Remoe: 다른 브랜치
+
+5) stash
